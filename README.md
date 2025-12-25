@@ -9,10 +9,45 @@ This is expected behavior for free hosting and not a performance issue in the ap
 🌐 Live Demo
 
 Frontend:
-👉 https://meals-frontend-1x5x9a47r-manassaini20-gmailcoms-projects.vercel.app
+👉 https://meals-frontend-tawny.vercel.app/
 
 Backend API:
 👉 https://manasmeals-backend.onrender.com
+
+📸 Screenshots
+🖥️ Desktop Views
+🏠 Home Page
+
+![Desktop Home](Screenshots/Desktop_home.png)
+
+🧭 Browse Categories
+
+![Desktop Categories](Screenshots/Desktop_categories.png)
+
+🍽️ Meal Cards
+
+![Desktop Meal Card](Screenshots/Desktop_Meal_Card.png)
+
+🧂 Ingredients & Instructions
+
+![Desktop Ingredients](Screenshots/Desktop_Ingredients.png)
+
+🎥 YouTube Recipe Video
+
+![Desktop YouTube](Screenshots/Desktop_YT.png)
+
+📱 Mobile Views
+🏠 Mobile Home
+
+![Mobile Home](Screenshots/Mobile_Home.png)
+
+🍽️ Mobile Meal Card
+
+![Mobile Meal Card](Screenshots/Mobile_Meal_Card.png)
+
+🎥 Mobile YouTube Video
+
+![Mobile YouTube](Screenshots/Mobile_YT.png)
 
 Example API:
 
@@ -176,5 +211,3 @@ API-only backend (no frontend assets served from backend)
 Manas Saini
 
 Software Engineer / Backend-Focused Full-Stack Developer
-
-
