@@ -24,30 +24,43 @@ GET /api/meals/{id}
 🚀 Features
 
 🍔 Recipe Discovery
+
 Search meals by name
+
 Browse meals by category
+
 Fetch random recipes (“Surprise Me”)
 
 📄 Meal Details Page
 
 Large optimized meal image
+
 Ingredients grid with icons & measurements
+
 Step-by-step cooking instructions
+
 Embedded YouTube recipe video
+
 Responsive layout for mobile & desktop
 
 ❤️ Favorites
 
 Save / remove favorite meals
+
 Stored in browser localStorage
+
 Persistent across sessions
 
 🎨 UI / UX
 
 Modern, clean design
+
 Mobile-first & fully responsive
+
 Light / Dark theme support
+
 Skeleton loaders for better perceived performance
+
 Empty states with friendly user messaging
 
 🧱 Architecture Overview
@@ -62,7 +75,9 @@ TheMealDB Public API
 
 
 Frontend and backend are fully decoupled
+
 Environment-based configuration for API URLs
+
 Production-grade REST patterns
 
 🛠️ Tech Stack
