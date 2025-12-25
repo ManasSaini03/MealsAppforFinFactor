@@ -53,9 +53,9 @@ Backend API:
 ### 📱 Mobile Views
 
 <p align="center">
-  <img src="screenshots/mobile_home.png" width="220" alt="Mobile_Home" />
-  <img src="screenshots/mobile_meal_card.png" width="220" alt="Mobile_Meal_Card" />
-  <img src="screenshots/mobile_yt.png" width="220" alt="Mobile_YouTube" />
+  <img src="screenshots/Mobile_Home.png" width="220" alt="Mobile_Home" />
+  <img src="screenshots/Mobile_Meal_Card.png" width="220" alt="Mobile_Meal_Card" />
+  <img src="screenshots/Mobile_YT.png" width="220" alt="Mobile_YT" />
 </p>
 
 Example API:
