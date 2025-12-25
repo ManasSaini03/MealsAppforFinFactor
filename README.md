@@ -36,26 +36,12 @@ Backend API:
 
 ![Desktop YouTube](Screenshots/Desktop_YT.png)
 
-📱 Mobile Views
-🏠 Mobile Home
-
-![Mobile Home](Screenshots/Mobile_Home.png)
-
-🍽️ Mobile Meal Card
-
-![Mobile Meal Card](Screenshots/Mobile_Meal_Card.png)
-
-🎥 Mobile YouTube Video
-
-![Mobile YouTube](Screenshots/Mobile_YT.png)
-
-
 ### 📱 Mobile Views
 
 <p align="center">
-  <img src="screenshots/Mobile_Home.png" width="220" alt="Mobile_Home" />
-  <img src="screenshots/Mobile_Meal_Card.png" width="220" alt="Mobile_Meal_Card" />
-  <img src="screenshots/Mobile_YT.png" width="220" alt="Mobile_YT" />
+  <img src="Screenshots/Mobile_Home.png" width="220" alt="Mobile_Home" />
+  <img src="Screenshots/Mobile_Meal_Card.png" width="220" alt="Mobile_Meal_Card" />
+  <img src="Screenshots/Mobile_YT.png" width="220" alt="Mobile_YT" />
 </p>
 
 Example API:
