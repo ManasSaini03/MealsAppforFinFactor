@@ -15,7 +15,17 @@ Backend API:
 👉 https://manasmeals-backend.onrender.com
 
 📸 Screenshots
-🖥️ Desktop Views
+
+### 📱 Mobile Views
+
+<p align="center">
+  <img src="Screenshots/Mobile_Home.png" width="220" alt="Mobile_Home" />
+  <img src="Screenshots/Mobile_Meal_Card.png" width="220" alt="Mobile_Meal_Card" />
+  <img src="Screenshots/Mobile_YT.png" width="220" alt="Mobile_YT" />
+</p>
+
+### 🖥️ Desktop Views
+
 🏠 Home Page
 
 ![Desktop Home](Screenshots/Desktop_home.png)
@@ -36,13 +46,6 @@ Backend API:
 
 ![Desktop YouTube](Screenshots/Desktop_YT.png)
 
-### 📱 Mobile Views
-
-<p align="center">
-  <img src="Screenshots/Mobile_Home.png" width="220" alt="Mobile_Home" />
-  <img src="Screenshots/Mobile_Meal_Card.png" width="220" alt="Mobile_Meal_Card" />
-  <img src="Screenshots/Mobile_YT.png" width="220" alt="Mobile_YT" />
-</p>
 
 Example API:
 
