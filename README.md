@@ -18,36 +18,36 @@ Backend API:
 🖥️ Desktop Views
 🏠 Home Page
 
-![Desktop Home](screenshots/Desktop home.png)
+![Desktop Home](Screenshots/Desktop_home.png)
 
 🧭 Browse Categories
 
-![Desktop Categories](screenshots/Desktop_categories.png)
+![Desktop Categories](Screenshots/Desktop_categories.png)
 
 🍽️ Meal Cards
 
-![Desktop Meal Card](screenshots/Desktop_Meal_Card.png)
+![Desktop Meal Card](Screenshots/Desktop_Meal_Card.png)
 
 🧂 Ingredients & Instructions
 
-![Desktop Ingredients](screenshots/Desktop_Ingredients.png)
+![Desktop Ingredients](Screenshots/Desktop_Ingredients.png)
 
 🎥 YouTube Recipe Video
 
-![Desktop YouTube](screenshots/Desktop_YT.png)
+![Desktop YouTube](Screenshots/Desktop_YT.png)
 
 📱 Mobile Views
 🏠 Mobile Home
 
-![Mobile Home](screenshots/Mobile_Home.png)
+![Mobile Home](Screenshots/Mobile_Home.png)
 
 🍽️ Mobile Meal Card
 
-![Mobile Meal Card](screenshots/Mobile_Meal_Card.png)
+![Mobile Meal Card](Screenshots/Mobile_Meal_Card.png)
 
 🎥 Mobile YouTube Video
 
-![Mobile YouTube](screenshots/Mobile_YT.png)
+![Mobile YouTube](Screenshots/Mobile_YT.png)
 
 Example API:
 
