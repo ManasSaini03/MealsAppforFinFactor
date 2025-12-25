@@ -49,6 +49,15 @@ Backend API:
 
 ![Mobile YouTube](Screenshots/Mobile_YT.png)
 
+
+### 📱 Mobile Views
+
+<p align="center">
+  <img src="screenshots/mobile_home.png" width="220" alt="Mobile_Home" />
+  <img src="screenshots/mobile_meal_card.png" width="220" alt="Mobile_Meal_Card" />
+  <img src="screenshots/mobile_yt.png" width="220" alt="Mobile_YouTube" />
+</p>
+
 Example API:
 
 GET /api/meals/categories
