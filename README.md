@@ -81,20 +81,35 @@ Environment-based configuration for API URLs
 Production-grade REST patterns
 
 🛠️ Tech Stack
+
 Frontend
+
 React (Vite)
+
 JavaScript (ES6+)
+
 Tailwind CSS
+
 React Router
+
 LocalStorage (Favorites)
+
 Vercel (Hosting)
+
 Backend
+
 Java 21
+
 Spring Boot
+
 Spring Web (REST APIs)
+
 Global Exception Handling
+
 In-memory caching
+
 Docker (multi-stage build)
+
 Render (Hosting)
 
 External API
